@@ -1,0 +1,511 @@
+{
+    "title": "Create corresponding cloze field with numbers 1-9",
+    "rules": [
+        {
+            "description": "Create corresponding cloze field with numbers 1-9",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "1",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "1"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                     {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "2",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "2"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "3",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "3"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "4",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "4"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "5",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "5"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "6",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "6"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "7",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "7"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "8",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "8"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "9",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+               {
+                       "key_code": "x",
+                       "modifiers": ["left_command"]
+               },
+                     {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "open_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "c"
+                        },
+                        {
+                          "key_code": "9"
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                          "key_code": "semicolon",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "v",
+                       "modifiers": ["left_command"],
+                          "hold_down_milliseconds": 50
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        },
+                        {
+                       "key_code": "close_bracket",
+                          "modifiers": ["right_shift"]
+                        }
+                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "0",
+                        "modifiers": {
+                            "mandatory": [
+                                "control",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "shell_command": "osascript -e 'set num to display dialog \"Please type cloze number.\" default answer \"\" with title \"Set Cloze Number\"' && NUM=$(echo $num | awk -F \":\" '{print $3}' | awk -F \",\" '{print $1}') && osascript -e 'tell application \"System Events\" to keystroke \"c\" using command down' && sleep 0.1 && CLIP=$(pbpaste) && echo \"{{c$NUM::$CLIP}}\" | pbcopy && osascript -e 'tell application \"System Events\" to keystroke \"v\" using command down'"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
